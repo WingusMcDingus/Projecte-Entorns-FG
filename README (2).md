@@ -1,9 +1,10 @@
 # Que faré?
-Fare un joc de lluita 1v1 de 3D amb funcionalitat 2D. amb un roster petit de 2-4 personatges que tindran les seves pròpies característiques i atacs.
+Fare un joc de lluita 1v1 de 3D amb funcionalitat 2D. amb una unica funció de una training room, on pots teistejar els controls del joc. 
 Sera inspirat amb jocs de lluita de 2d com Street Fighter, Mortal Kombat, Guilty Gear, etc.
 
 # Objectiu
 El joc en si sera simple, cada personatge tindra una barra de vida i l'objectiu es guanyar el combat contra el teu contrincant. Escolliras un personatge que tindran la mateixa vida pero cada un te diferents atacs, i l'objectiu sera usar el teu personatge de la millor manera per guanyar.
+Pero, per la versió que entregare, una versió d’entrenament jugable es l’objectiu.
 
 # Possibles problemes
 Crear un joc de lluita es una cosa que sempre m'he imaginat fent, pero mai m'hi he ficat. Aixo si, entenc les dificultats que implica fer un joc aixi, sobretot coses com frames, recovery d'atacs, moviment, etc.
