@@ -1,0 +1,1 @@
+Carpeta amb el document/memoria de treball

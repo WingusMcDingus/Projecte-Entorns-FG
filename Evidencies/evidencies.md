@@ -1,0 +1,1 @@
+Carpeta amb imatges del progres del projecte.
